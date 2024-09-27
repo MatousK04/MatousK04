@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatousK04
-- 👀 I’m interested in making small projects and solving shower thought type of problems
-- 🌱 I’m currently in my First Year of Computer Science at TUDublin
+- 👀 I’m interested in making fun projects and solving shower thought type of problems
+- 🌱 I’m currently in my Second Year of Computer Science at TUDublin
 - 📫 How to reach me (kloucek.matous@outlook.ie)/(C23347781@mytudublin.ie)
 
 <!---
