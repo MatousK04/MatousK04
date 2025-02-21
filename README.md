@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatousK04
-- 👀 I’m interested in making Websites , Developing concepts and messing around with fundementals
+- 👀 I’m interested in Java, C and utilizing them to develop applications. 
 - 🌱 I’m currently in my Second Year of Computer Science at TUDublin
 - 📫 How to reach me (kloucek.matous@outlook.ie)/(C23347781@mytudublin.ie)
 
